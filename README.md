@@ -1,2 +1,12 @@
 # Awesome-DeepRadiology
-Curated list of Radiologic AI startups/projects
+*Curated list of Radiologic AI startups/projects*
+
+[Aidoc](https://www.aidoc.com/): Automated flagging of acute abnormalaties utilizising artificial intelligence
+
+[Enlitic](https://www.enlitic.com/): Data collection for AI medical image diagnosis training
+
+[Rad AI](https://www.radai.com/): Automated report impressions for a radiologist in order to optimize time efficiency
+
+[Qure.ai](http://qure.ai/): AI algorithms and deep learning optimized for medicial imaging
+
+[Zebra Medical Vision](https://www.zebra-med.com/): Tools for automated, accurate, and timely image diagnosis
