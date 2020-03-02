@@ -1,5 +1,5 @@
 # Awesome-DeepRadiology
-*Curated list of Radiologic AI startups/projects*
+*Curated list of Radiologic AI startups/projects* | [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
 [Aidoc](https://www.aidoc.com/): Automated flagging of acute abnormalaties utilizising artificial intelligence
 
