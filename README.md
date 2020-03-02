@@ -9,4 +9,8 @@
 
 [Qure.ai](http://qure.ai/): AI algorithms and deep learning optimized for medicial imaging
 
+[AiAi.care](https://aiai.care/): Working on building an AI for Tuberculosis and Lung Cancer through a screening tool
+
 [Zebra Medical Vision](https://www.zebra-med.com/): Tools for automated, accurate, and timely image diagnosis
+
+[Stanford Machine Learning Group](https://stanfordmlgroup.github.io/): AI group from Stanford that also does medical imaging AI research
