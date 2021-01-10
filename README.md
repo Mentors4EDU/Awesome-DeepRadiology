@@ -3,6 +3,8 @@
 
 [Aidoc](https://www.aidoc.com/): Automated flagging of acute abnormalaties utilizising artificial intelligence
 
+[DetAll](https://devpost.com/software/detall): Suite of analysis & detection tools for medical images
+
 [Enlitic](https://www.enlitic.com/): Data collection for AI medical image diagnosis training
 
 [Rad AI](https://www.radai.com/): Automated report impressions for a radiologist in order to optimize time efficiency
