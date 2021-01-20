@@ -15,4 +15,10 @@
 
 [Zebra Medical Vision](https://www.zebra-med.com/): Tools for automated, accurate, and timely image diagnosis
 
+[Train an AI in Radiology](https://www.zooniverse.org/projects/gamer456148/train-an-ai-in-radiology): Classification survey for training a data model and image analysis program
+
+[X-Ray Images Enhancement](https://github.com/asalmada/x-ray-images-enhancement): Image enhancement program for medical imaging and radiography
+
+[Enhance Local Contrast (CLAHE)](https://imagej.net/Enhance_Local_Contrast_(CLAHE)): Contrast enhancement algorithm and filtering method
+
 [Stanford Machine Learning Group](https://stanfordmlgroup.github.io/): AI group from Stanford that also does medical imaging AI research
